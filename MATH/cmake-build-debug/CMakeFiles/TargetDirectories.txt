@@ -1,0 +1,3 @@
+/Users/meeestust/C++/MATH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/meeestust/C++/MATH/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/meeestust/C++/MATH/cmake-build-debug/CMakeFiles/MATH.dir

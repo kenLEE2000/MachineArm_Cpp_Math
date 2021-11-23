@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/meeestust/C++/MATH/MATH_CLASS.h
+jni.h
+/Users/meeestust/C++/MATH/jni.h
+
+/Users/meeestust/C++/MATH/jni.h
+stdio.h
+-
+stdarg.h
+-
+jni_md.h
+/Users/meeestust/C++/MATH/jni_md.h
+
+/Users/meeestust/C++/MATH/jni_md.h
+
+/Users/meeestust/C++/MATH/main.cpp
+MATH_CLASS.h
+/Users/meeestust/C++/MATH/MATH_CLASS.h
+math.h
+-
+
+/Users/meeestust/C++/MATH/main_ex.cpp
+math.h
+-
+iostream
+-
+
